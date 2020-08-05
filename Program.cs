@@ -9,7 +9,6 @@ namespace calendar
     {
          static void Main(string[] args)
         {
-
             string command = Console.ReadLine();
             string[] parameters = command.Split(" ");
             if (parameters.Length == 2)
